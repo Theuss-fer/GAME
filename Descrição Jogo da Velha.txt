@@ -1,0 +1,21 @@
+Grupo: Matheus Ferreira João Pedro
+Objetivo: Criação de um repositório local compartilhado
+
+
+
+
+Matheus:
+git config --global user.name "Matheus"
+git config --global user.email "matheusbferreira31@gmail.com"
+
+João:
+git config --global user.name "João"
+git config --global user.email "antunesjoaopedro3@gmail.com"
+
+Descrição: 
+Começamos criando um repositório entre os alunos João e Matheus para conseguirem fazer os commits enquanto jogavam.
+ git clone https://github.com/Theuss-fer/GAME.git
+
+Inicializamos um git com git init , fizemos um pull no repositorio, realizamos as jogadas e logo em seguida usamos git add para selecionar as alterações
+e usamos git commit para preparar pra enviar as jogadas para o repositório remoto, por fim fizemos o git push para enviar as alterações para o repositório remoto 
+do Git Hub.
